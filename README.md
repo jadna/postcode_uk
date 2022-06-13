@@ -39,10 +39,10 @@ def show_details_postcode(postcode):
 
 This function takes in a postcode as an argument and prints the following:
 
-Validity of Postcode
-Latitude and Longitude
-Parish
-Outward Code
+Validity of Postcode, 
+Latitude and Longitude, 
+Parish, 
+Outward Code, 
 Inward Code
 
 
