@@ -7,14 +7,11 @@ https://en.wikipedia.org/wiki/Postcodes_in_the_United_Kingdom#Formatting.
 
 This library uses the fastApi and postcodes.io API.
 
-## Contents of Library
-
-The postcodes library file is postcode.py
-Inside the library there is a number of methods available to use.
 
 ## Contents of Library
 
 The postcodes library file is postcode.py
+
 Inside the library there is a number of methods available to use.
 
 ```python
@@ -124,7 +121,11 @@ Simply call these imported functions as you wish.
 
 # ThreeFive
 
-It prints the numbers from 1 to 100. But for multiples of three it prints “Three” instead of the number and for multiples of five it prints “Five”. For numbers that are multiples of three and five, prints “ThreeFive”.
+It prints the numbers from 1 to 100. 
+
+But for multiples of three it prints “Three” instead of the number and for multiples of five it prints “Five”. 
+
+For numbers that are multiples of three and five, prints “ThreeFive”.
 
 ###### Running
 
