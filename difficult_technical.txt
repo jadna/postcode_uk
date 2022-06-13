@@ -1,0 +1,3 @@
+One of my biggest professional challenges was when I was an intern and I needed to develop a whole system to generate payroll for the university where I studied, the project was called Labore.
+I had to gather requirements, develop the code in PHP, model the database, implement the system in the sectors, support users and write documentation.
+This was one of the biggest challenges of my career because I was still learning to program and I had to do a lot of research and learn to develop a complete system. That's why I'm very proud of this project, for being able to develop the project.
