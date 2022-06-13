@@ -82,7 +82,7 @@ Inward Code
    pip install -r requirements.txt
 
    # Run the Project
-   python3 postcode_api.py install
+   python3 postcode_api.py
 
    # Access the api with the following urls
    
@@ -120,3 +120,16 @@ from postcode import *
 This imports all functions from our library.
 
 Simply call these imported functions as you wish.
+
+
+# ThreeFive
+
+It prints the numbers from 1 to 100. But for multiples of three it prints “Three” instead of the number and for multiples of five it prints “Five”. For numbers that are multiples of three and five, prints “ThreeFive”.
+
+###### Running
+
+```python
+
+    python3 threefive.py
+
+```
